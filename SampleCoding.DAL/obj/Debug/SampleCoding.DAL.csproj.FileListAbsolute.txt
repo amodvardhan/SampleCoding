@@ -1,0 +1,11 @@
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\SampleCoding.DAL.dll.config
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\SampleCoding.DAL.dll
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\SampleCoding.DAL.pdb
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EntityFramework.dll
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EntityFramework.xml
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\obj\Debug\SampleCoding.DAL.csproj.CoreCompileInputs.cache
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\obj\Debug\SampleCoding.DAL.dll
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\obj\Debug\SampleCoding.DAL.pdb
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\obj\Debug\SampleCoding.DAL.csprojResolveAssemblyReference.cache
