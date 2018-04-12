@@ -1,0 +1,21 @@
+c:\users\pranjal\contacts\documents\visual studio 2017\Projects\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EzestCodingTest.DAL.dll.config
+c:\users\pranjal\contacts\documents\visual studio 2017\Projects\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EzestCodingTest.DAL.dll
+c:\users\pranjal\contacts\documents\visual studio 2017\Projects\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EzestCodingTest.DAL.pdb
+c:\users\pranjal\contacts\documents\visual studio 2017\Projects\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EntityFramework.dll
+c:\users\pranjal\contacts\documents\visual studio 2017\Projects\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pranjal\contacts\documents\visual studio 2017\Projects\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EntityFramework.xml
+c:\users\pranjal\contacts\documents\visual studio 2017\Projects\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pranjal\contacts\documents\visual studio 2017\Projects\EzestCodingTest.DAL\EzestCodingTest.DAL\obj\Debug\EzestCodingTest.DAL.dll
+c:\users\pranjal\contacts\documents\visual studio 2017\Projects\EzestCodingTest.DAL\EzestCodingTest.DAL\obj\Debug\EzestCodingTest.DAL.pdb
+C:\Users\pranjal\Contacts\Documents\Visual Studio 2017\Projects\EzestCodingTest.DAL\EzestCodingTest.DAL\obj\Debug\EzestCodingTest.DAL.csprojResolveAssemblyReference.cache
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EzestCodingTest.DAL.dll.config
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EzestCodingTest.DAL.dll
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EzestCodingTest.DAL.pdb
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EntityFramework.dll
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EntityFramework.xml
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\obj\Debug\EzestCodingTest.DAL.csproj.CoreCompileInputs.cache
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\obj\Debug\EzestCodingTest.DAL.dll
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\obj\Debug\EzestCodingTest.DAL.pdb
+D:\EzestCodingTest.DAL\EzestCodingTest.DAL\obj\Debug\EzestCodingTest.DAL.csprojResolveAssemblyReference.cache
